@@ -1,25 +1,28 @@
 {
   "galpoes": [
     {
-      "id": "1",
-      "nome": "Galpão Curitiba",
-      "capacidade": 5200,
-      "latitude": -25.428356,
-      "longitude": -49.273251
+      "idGalpao": "G1",
+      "nome": "Galpão 1 (Leste)",
+      "latitude": -19.7,
+      "longitude": -40.1,
+      "descricao": "Região Leste - 800m²",
+      "capacidade_items": 1200
     },
     {
-      "id": "2",
-      "nome": "Galpão Salvador",
-      "capacidade": 3100,
-      "latitude": -12.971111,
-      "longitude": -38.510833
+      "idGalpao": "G2",
+      "nome": "Galpão 2 (Oeste)",
+      "latitude": -20.0,
+      "longitude": -40.3,
+      "descricao": "Região Oeste - 2km",
+      "capacidade_items": 2000
     },
     {
-      "id": "3",
-      "nome": "Galpão Porto Alegre",
-      "capacidade": 4700,
-      "latitude": -30.034647,
-      "longitude": -51.217658
+      "idGalpao": "G3",
+      "nome": "Galpão 3 (Sul)",
+      "latitude": -19.9,
+      "longitude": -40.4,
+      "descricao": "Região Sul - 600m²",
+      "capacidade_items": 800
     }
   ]
 }

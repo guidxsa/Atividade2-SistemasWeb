@@ -1,5 +1,5 @@
-from queue import filaProdutosPedidos
-from queue import filaDespachoGalpoes
+from queues.filaProdutosPedidos import filaProdutosPedidos
+from queues.filaDespachoGalpoes import filaDespachoGalpoes
 import json
 import math
 

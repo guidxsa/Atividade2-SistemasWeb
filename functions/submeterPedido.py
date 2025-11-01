@@ -1,4 +1,4 @@
-from queue import filaPedidos
+from queues.filaPedidos import filaPedidos
 
 def submeterPedido(pedido):
     '''

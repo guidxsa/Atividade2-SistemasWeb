@@ -1,19 +1,24 @@
 {
-    "produtos": [
-        {
-            "id": "101",
-            "produto": "Móveis",
-            "quantidade": 75
-        },
-        {
-            "id": "102",
-            "produto": "Brinquedos",
-            "quantidade": 180
-        },
-        {
-            "id": "103",
-            "produto": "Cosméticos",
-            "quantidade": 120
-        }
-    ]
+  "produtos": [
+    {
+      "idProduto": 1,
+      "nome": "NEW BALANCE 1906 A",
+      "peso_kg": 2.5,
+      "localizacao_padrao": {
+        "latitude": 2.0,
+        "longitude": 4.5,
+        "descricao": "Estoque Principal - Nova almeida"
+      }
+    },
+    {
+      "idProduto": 2,
+      "nome": "ASICS NYC",
+      "peso_kg": 7.0,
+      "localizacao_padrao": {
+        "latitude": 3.5,
+        "longitude": 5.0,
+        "descricao": "Estoque Secundário - jacaraipe"
+      }
+    }
+  ]
 }

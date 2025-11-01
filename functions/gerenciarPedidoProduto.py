@@ -1,5 +1,5 @@
-from queue import filaPedidos
-from queue import filaProdutosPedidos
+from queues.filaPedidos import filaPedidos
+from queues.filaProdutosPedidos import filaProdutosPedidos
 import json
 
 SCHEMA_PRODUTOS = "./schema/cadastroProduto.json"
