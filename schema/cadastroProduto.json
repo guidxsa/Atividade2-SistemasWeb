@@ -1,0 +1,24 @@
+{
+  "produtos": [
+    {
+      "idProduto": 1,
+      "nome": "NEW BALANCE 1906 A",
+      "peso_kg": 2.5,
+      "localizacao_padrao": {
+        "latitude": 2.0,
+        "longitude": 4.5,
+        "descricao": "Estoque Principal - Nova almeida"
+      }
+    },
+    {
+      "idProduto": 2,
+      "nome": "ASICS NYC",
+      "peso_kg": 7.0,
+      "localizacao_padrao": {
+        "latitude": 3.5,
+        "longitude": 5.0,
+        "descricao": "Estoque Secundário - jacaraipe"
+      }
+    }
+  ]
+}
