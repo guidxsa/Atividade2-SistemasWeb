@@ -1,0 +1,19 @@
+{
+    "produtos": [
+        {
+            "id": "101",
+            "produto": "Móveis",
+            "quantidade": 75
+        },
+        {
+            "id": "102",
+            "produto": "Brinquedos",
+            "quantidade": 180
+        },
+        {
+            "id": "103",
+            "produto": "Cosméticos",
+            "quantidade": 120
+        }
+    ]
+}

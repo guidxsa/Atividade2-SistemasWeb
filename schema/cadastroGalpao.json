@@ -1,0 +1,25 @@
+{
+  "galpoes": [
+    {
+      "id": "1",
+      "nome": "Galpão Curitiba",
+      "capacidade": 5200,
+      "latitude": -25.428356,
+      "longitude": -49.273251
+    },
+    {
+      "id": "2",
+      "nome": "Galpão Salvador",
+      "capacidade": 3100,
+      "latitude": -12.971111,
+      "longitude": -38.510833
+    },
+    {
+      "id": "3",
+      "nome": "Galpão Porto Alegre",
+      "capacidade": 4700,
+      "latitude": -30.034647,
+      "longitude": -51.217658
+    }
+  ]
+}
