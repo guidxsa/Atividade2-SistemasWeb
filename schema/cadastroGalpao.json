@@ -1,0 +1,28 @@
+{
+  "galpoes": [
+    {
+      "idGalpao": "G1",
+      "nome": "Galpão 1 (Leste)",
+      "latitude": -19.7,
+      "longitude": -40.1,
+      "descricao": "Região Leste - 800m²",
+      "capacidade_items": 1200
+    },
+    {
+      "idGalpao": "G2",
+      "nome": "Galpão 2 (Oeste)",
+      "latitude": -20.0,
+      "longitude": -40.3,
+      "descricao": "Região Oeste - 2km",
+      "capacidade_items": 2000
+    },
+    {
+      "idGalpao": "G3",
+      "nome": "Galpão 3 (Sul)",
+      "latitude": -19.9,
+      "longitude": -40.4,
+      "descricao": "Região Sul - 600m²",
+      "capacidade_items": 800
+    }
+  ]
+}
